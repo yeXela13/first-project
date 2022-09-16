@@ -1,4 +1,5 @@
-.main {
-color: black;
-border: 1px dash red;
+.main__element {
+background-image: url(https://uprostim.com/wp-content/uploads/2021/05/image033-5.jpg);
+width: 720px;
+height:480px;
 }
